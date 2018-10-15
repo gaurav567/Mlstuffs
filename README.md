@@ -4,3 +4,8 @@
 <br> *Concept of linear Regression explained on random data</br>
 <h3>........</h3>
 
+</h3>Regression Techniques</h3>
+Regularisation
+
+..........
+
