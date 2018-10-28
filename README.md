@@ -8,8 +8,8 @@
 <h3><b>Regression Techniques</b></h3>
 <br>Regularisation - Ridge, lasso</br>
 
-<br><h3>ML cheat codes</h3></br>
-Includes basic scratch implementation of LR and K-nearest also includes various preprocessing techniques,decision tree,svm up till now, so aware with syntax
+<br><h3>***ML cheat codes***</h3></br>
+Includes basic scratch implementation of LR and K-nearest also includes various preprocessing techniques,decision tree,svm up till now, so aware with syntax!!!
 
 
 <h4><t>......................................................xxx................................................................</t></h4>
